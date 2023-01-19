@@ -1,4 +1,4 @@
-Code for NIPS2021 Paper "Instance-dependent Label-noise Learning under a Structural Causal Model"
+Code for NIPS2021 Paper "Instance-dependent Label-noise Learning under a Structural Causal Model" (https://arxiv.org/pdf/2109.02986.pdf)
 +++++environment configuration++++++
 
 #########important###############

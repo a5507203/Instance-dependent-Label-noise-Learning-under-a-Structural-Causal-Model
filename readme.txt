@@ -1,4 +1,14 @@
-Code for NIPS2021 Paper "Instance-dependent Label-noise Learning under a Structural Causal Model" (https://arxiv.org/pdf/2109.02986.pdf)
+Code for NeuripsIPS 2021 Paper "Instance-dependent Label-noise Learning under a Structural Causal Model" 
+
+NeuripsIPS:
+https://proceedings.neurips.cc/paper/2021/file/23451391cd1399019fa0421129066bc6-Paper.pdf
+
+ARXIV: 
+https://arxiv.org/pdf/2109.02986.pdf
+
+
+Abstract: 
+Label noise generally degenerates the performance of deep learning algorithms because deep neural networks easily overfit label errors. Let X and Y denote the instance and clean label, respectively. When Y is a cause of X, according to which many datasets have been constructed, e.g., SVHN and CIFAR, the distributions of $P(X)$ and (Y|X) are generally entangled. This means that the unsupervised instances are helpful to learn the classifier and thus reduce the side effect of label noise. However, it remains elusive on how to exploit the causal information to handle the label-noise problem. We propose to model and make use of the causal process in order to correct the label-noise effect.Empirically, the proposed method outperforms all state-of-the-art methods on both synthetic and real-world label-noise datasets.
 +++++environment configuration++++++
 
 #########important###############

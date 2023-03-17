@@ -1,7 +1,11 @@
 Code for NeuripsIPS 2021 Paper "Instance-dependent Label-noise Learning under a Structural Causal Model" 
 
-NeuripsIPS:
-https://proceedings.neurips.cc/paper/2021/file/23451391cd1399019fa0421129066bc6-Paper.pdf
+<div align="center">   
+  
+# Instance-dependent Label-noise Learning under a Structural Causal Model
+[![Paper](https://img.shields.io/badge/NeuripsIPS21-green)](https://proceedings.neurips.cc/paper/2021/file/23451391cd1399019fa0421129066bc6-Paper.pdf3)
+
+</div>
 
 ARXIV: 
 https://arxiv.org/pdf/2109.02986.pdf

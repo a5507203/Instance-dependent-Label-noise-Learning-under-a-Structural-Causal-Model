@@ -1,4 +1,4 @@
-Code for NeuripsIPS 2021 Paper "Instance-dependent Label-noise Learning under a Structural Causal Model" 
+Code for NeurIPS 2021 Paper "Instance-dependent Label-noise Learning under a Structural Causal Model" 
 
 <div align="center">   
   
@@ -23,7 +23,7 @@ Note that this is the implementation without using data augmentation. Please ref
 The code is only tested on Linux Linux-based system (Ubuntu 20.04). 
 The Python version is 3.6.9. The Pytorh version is 1.2.0 with GPU acceleration. 
 
-It is unknown if the code is compatible on windows or different versions of Pytorh and Python. 
+It is unknown if the code is compatible on Windows or different versions of Pytorh and Python. 
 We have not tested to run our code in a CPU environment. 
 
 

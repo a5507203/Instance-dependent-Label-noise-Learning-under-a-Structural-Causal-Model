@@ -17,4 +17,3 @@ Label noise generally degenerates the performance of deep learning algorithms be
 
 Note that data augmentation is used in this implementation and has achieved stronger results than the performance proposed in the original paper.
 
-
